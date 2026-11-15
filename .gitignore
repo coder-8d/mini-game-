@@ -1,0 +1,15 @@
+# Local binary runtime
+bin/
+lib/
+
+# Dependencies & Builds
+node_modules/
+dist/
+.wrangler/
+.env*
+.dev.vars*
+preview.local.json
+.DS_Store
+*.log
+.freebuff/
+server/gamyx_database.json
